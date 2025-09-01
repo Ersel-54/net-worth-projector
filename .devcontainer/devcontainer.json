@@ -1,0 +1,26 @@
+{
+	"name": "Jupyter Notebook",
+	"image": "mcr.microsoft.com/devcontainers/anaconda:latest",
+	"features": {
+		"ghcr.io/devcontainers-extra/features/black:2": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-python.black-formatter",
+				"ms-toolsai.jupyter",
+				"ms-toolsai.jupyter-renderers"
+			]
+		}
+	},
+	"forwardPorts": [8888],
+	"portsAttributes": {
+		"8888": {
+			"label": "Jupyter Notebook",
+			"onAutoForward": "openBrowser"
+		}
+	},
+	"remoteUser": "vscode",
+	"postStartCommand": "jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token=''"
+}
