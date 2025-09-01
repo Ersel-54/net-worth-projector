@@ -4,7 +4,7 @@ This project provides a tool to help you project your net worth growth over
 time. Using a [Jupyter Notebook](https://jupyter.org), you can model how your
 net worth evolves based on factors such as income, interest rates, and expenses.
 The notebook generates visualizations to help you plan and achieve specific
-financial goals, such as reaching a net worth milestone or becoming financially
+financial goals such as becoming a millionaire or becoming financially
 independent.
 
 ## Example
